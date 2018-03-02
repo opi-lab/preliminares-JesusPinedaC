@@ -8,9 +8,6 @@ In this repo you will find Jupyter Notebooks for the course. For quicker view re
 
 # Contents
 
-.
-	├── ch01-ex1.py: In this example we take an image, apply Gaussian blur and plot the image contours for increasing values of sigma
-	
-	├── ch01-ex2.py
-	├── data
-	│   ├── image.jpg
+1. **ch01-ex1.py**: In this example we take an image, apply Gaussian blur and plot the image contours for increasing values of sigma.
+2. **ch01-ex2.py**: We Implement an unsharp masking operation by blurring an image and then subtracting the blurred version from the original. This gives a sharpening effect to the image. In this tutorial we try this on both color and grayscale images.
+
